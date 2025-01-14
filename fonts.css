@@ -1,14 +1,13 @@
-
 @font-face {
   font-family: 'Aeonik Pro';
   font-style: normal;
   font-weight: 400;
-  src: url('AeonikPro-Regular.woff2') format('woff2');
+  src: url('Aeonik-Regular.woff2') format('woff2');
 }
 
 @font-face {
   font-family: 'Aeonik Pro';
   font-style: normal;
   font-weight: 900;
-  src: url('AeonikPro-Black.woff2') format('woff2');
+  src: url('Aeonik-Black.woff2') format('woff2');
 }
